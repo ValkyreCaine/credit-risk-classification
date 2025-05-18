@@ -15,15 +15,15 @@ This analysis evaluates a machine learning model for credit risk classifications
 ## Results
 
 * Logistic Regression Model:
-  *Accuracy: 99%
+  * Accuracy: 99%
       * Class 1:
-         *Precision: 87% 
-         *Recall: 95%
-         *F1-Score: 91%
+         * Precision: 87% 
+         * Recall: 95%
+         * F1-Score: 91%
       * Class 0:
-         *Precision: 100% 
-         *Recall: 100%
-         *F1-Score: 100%
+         * Precision: 100% 
+         * Recall: 100%
+         * F1-Score: 100%
 
 ## Summary
 
