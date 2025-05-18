@@ -5,12 +5,12 @@ This analysis evaluates a machine learning model for credit risk classifications
 ## Process
 
 1. Data Preparation:
-   *Loaded the dataset into a pandas dataframe
-   *Isolated the target variable of loan_status away from the remaining features
+   * Loaded the dataset into a pandas dataframe
+   * Isolated the target variable of loan_status away from the remaining features
 2. Model:
-   *Applied a Logistic Regression model for the classification and predictions
+   * Applied a Logistic Regression model for the classification and predictions
 3. Evaluation:
-   *Assessed the performance of the model using a confusion matrix and classification report
+   * Assessed the performance of the model using a confusion matrix and classification report
 
 ## Results
 
